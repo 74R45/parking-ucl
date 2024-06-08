@@ -1,0 +1,10 @@
+jupyter
+numpy
+pandas
+Pillow
+torch
+torchvision
+torchmetrics
+torchsummary
+avalanche-lib
+torch-kmeans
